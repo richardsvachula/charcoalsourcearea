@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jan 21 04:41:03 2020
 
 @author: Richard Vachula
 """
@@ -440,7 +439,3 @@ plt.gca().set_xscale("log")
 
 plt.show();
 
-#g.plot_marginals(sns.jointplot, hist=True, kde=True, color='blue')
-#
-#g.ax_marg_x.set_xscale('log')
-#g.ax_marg_y.set_yscale('log')
